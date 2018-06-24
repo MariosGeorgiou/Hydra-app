@@ -1,0 +1,6 @@
+<svg class="background">>
+  <text id="myLabel" />
+  <text id="accel-label" class="sensor-label" x="50%" y="190">accelerometer</text>
+  <text id="accel-data" class="sensor-data" x="50%" y="225">{ ... }</text>
+  <image id="drop" xlink:href="drop.png" height="10%" width="10%" />
+</svg>

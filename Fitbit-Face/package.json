@@ -1,0 +1,18 @@
+{
+  "fitbit": {
+    "appUUID": "a50966ab-0387-4780-9c04-75abe8a9d7d9",
+    "appType": "clockface",
+    "appDisplayName": "Face demo",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#03a9f4",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Face demo"
+      }
+    }
+  }
+}
